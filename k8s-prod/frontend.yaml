@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: bvkk/frontend:694535bf15cb7328bd153687abca4167a3fd083a
+          image: bvkk/frontend:a1174d9a4f16cfe245e2c3e0a09f68dda9443d7e
           ports:
             - containerPort: 80
 ---
